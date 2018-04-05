@@ -15,7 +15,7 @@ var drawTree = function drawTree(g) {
       console.log(mySpace + star);
     }
   }
-}
+};
 drawTree(10);
 //drawTree(-5);
 
@@ -36,7 +36,7 @@ var drawTree2 = function drawTree2(g) {
       console.log(point + cross);
     }
   }
-}
+};
 drawTree2(10);
 
 //To odwrócone drzewko napisałam trochę z pomocą męża, ale w większości samodzielnie. Zaczynam troszkę lepiej rozumieć funkcjonowanie pętli, ale sporo pracy przede mną.
